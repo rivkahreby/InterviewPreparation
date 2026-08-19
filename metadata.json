@@ -1,0 +1,6 @@
+{
+  "name": "InterviewPrep AI",
+  "description": "Smart interview preparation platform for students and freshers featuring technical AI/mock interviews, answer evaluations, MCQ practice, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
